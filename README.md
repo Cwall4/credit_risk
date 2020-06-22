@@ -7,4 +7,4 @@ For Module 17's challenge, I analyzed credit risk for "LendingClub". The model u
 
 "credit_risk_resampling(Challenge_v2).ipynb" offers the more complete analysis, and (with some qualifiers) recommends the SMOTEENN algorithm.
 
-The data provided was transformed, and is included in this repository as "challenge_data_encoded.csv.zip".
+The data provided was transformed, and is included in this repository as "challenge_data_encoded.zip".
